@@ -1,0 +1,128 @@
+{
+  "-KBPVcEyjtLagxPAosyo" : {
+    "effect" : "powup",
+    "invincible" : "false",
+    "life" : "100",
+    "movement" : "leftright",
+    "name" : "",
+    "speed" : "75",
+    "type" : "enemy3"
+  },
+  "-KBPVtKZ1-D3prOe2ios" : {
+    "effect" : "powup",
+    "invincible" : "true",
+    "life" : "50",
+    "movement" : "updown",
+    "name" : "Nombre",
+    "speed" : "100",
+    "type" : "coin"
+  },
+  "-KBPW5PN6S--vv446AkV" : {
+    "effect" : "powup",
+    "invincible" : "true",
+    "life" : "50",
+    "movement" : "updown",
+    "name" : "EL CRACK :v",
+    "speed" : "100",
+    "type" : "coin"
+  },
+  "-KBPW8CW2GlPrzP3Vip8" : {
+    "effect" : "powup",
+    "invincible" : "false",
+    "life" : "50",
+    "movement" : "leftright",
+    "name" : "Nombre",
+    "speed" : "100",
+    "type" : "enemy2"
+  },
+  "-KBPWQ9rsgFQ_6nfuk9l" : {
+    "effect" : "life-minus",
+    "invincible" : "false",
+    "life" : "98",
+    "movement" : "play",
+    "name" : "KillerDash21",
+    "speed" : "94",
+    "type" : "enemy3"
+  },
+  "-KBPWQoHFleOmhOZETiY" : {
+    "effect" : "powup",
+    "invincible" : "false",
+    "life" : "100",
+    "movement" : "updown",
+    "name" : "EL CRACK :v",
+    "speed" : "100",
+    "type" : "coin"
+  },
+  "-KBPWQpTvqu1pNnK76bC" : {
+    "effect" : "life-plus",
+    "invincible" : "false",
+    "life" : "99",
+    "movement" : "play",
+    "name" : "Nombre",
+    "speed" : "99",
+    "type" : "enemy1"
+  },
+  "-KBPWRJcvvQny_F3J8jz" : {
+    "effect" : "powup",
+    "invincible" : "true",
+    "life" : "100",
+    "movement" : "play",
+    "name" : "Nombre",
+    "speed" : "100",
+    "type" : "star"
+  },
+  "-KBPWYudKWMkK3ea62C8" : {
+    "effect" : "life-plus",
+    "invincible" : "true",
+    "life" : "50",
+    "movement" : "play",
+    "name" : "Yokhezhe  ",
+    "speed" : "100",
+    "type" : "star"
+  },
+  "-KBPWZ6Ysg_eO3N9luNQ" : {
+    "effect" : "life-plus",
+    "invincible" : "true",
+    "life" : "100",
+    "movement" : "leftright",
+    "name" : "Nombre",
+    "speed" : "100",
+    "type" : "enemy2"
+  },
+  "-KBPW_0lSqIWEcbLXRjY" : {
+    "effect" : "life-plus",
+    "invincible" : "false",
+    "life" : "52",
+    "movement" : "play",
+    "name" : "Nombre",
+    "speed" : "50",
+    "type" : "enemy2"
+  },
+  "-KBPWu0H8F_DXj8CBsdk" : {
+    "effect" : "life-plus",
+    "invincible" : "false",
+    "life" : "98",
+    "movement" : "play",
+    "name" : "KillerDash21",
+    "speed" : "94",
+    "type" : "enemy3"
+  },
+  "-KBPX1bT4oQBiU8XTKst" : {
+    "effect" : "life-plus",
+    "invincible" : "false",
+    "life" : "98",
+    "movement" : "play",
+    "name" : "Nombre",
+    "speed" : "99",
+    "type" : "enemy1"
+  },
+  "-KBPX1bT4oQBiU8XTabc" : {
+    "effect" : "life-plus",
+    "invincible" : "false",
+    "life" : "100",
+    "movement" : "play",
+    "name" : "Nombre",
+    "speed" : "50",
+    "type" : "player"
+  }
+}
